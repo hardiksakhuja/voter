@@ -1,4 +1,4 @@
-# Voting app # 1
+# Voting app # 1 2
 
 ## About project
 
